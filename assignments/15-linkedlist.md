@@ -1,8 +1,7 @@
 # Problems
 
 ## Easy
-![Badge](https://img.shields.io/badge/Text-Message-green)
-- [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) `leetcode` `Done`
+- [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) `leetcode` ![Done Badge](https://img.shields.io/badge/Done-green)
 - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) `leetcode` `Done`
 - [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) `leetcode` `Done`
 - [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) `leetcode`
