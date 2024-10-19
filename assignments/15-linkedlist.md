@@ -2,16 +2,16 @@
 
 ## Easy
 - [x] [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) `leetcode`
-- ![Done](https://img.shields.io/badge/Done-green) [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) `leetcode` `Done`
-- [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) `leetcode` `Done`
+- [x] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) `leetcode`
+- [x] [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) `leetcode`
 - [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) `leetcode`
-- [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) `leetcode` `Done`
-- [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) `leetcode` `Snapdeal` `Done`
-- [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) `leetcode` `Done`
-- [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) `leetcode` `Samsung` `Done`
+- [x] [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) `leetcode`
+- [x] [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) `leetcode` `Snapdeal`
+- [x] [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) `leetcode`
+- [x] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) `leetcode` `Samsung`
 - [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)`leetcode`
 - [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) `leetcode`
-- [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) `leetcode` `Done`
+- [x] [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) `leetcode`
 
 ## Medium
 - [Design Twitter](https://leetcode.com/problems/design-twitter/) `leetcode`
