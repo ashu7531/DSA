@@ -23,7 +23,7 @@
 - [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) `leetcode` `TCS` `Amazon` `Microsoft` `Facebook` `Qualcomm`
 - [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) `leetcode`
 - [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) `leetcode`
-- [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) `leetcode` `Amazon`
+- [x] [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) `leetcode` `Amazon`
 - [x] [Rotate List](https://leetcode.com/problems/rotate-list/) `leetcode` `Microsoft`
 - [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) `leetcode`
 - [LRU Cache](https://leetcode.com/problems/lru-cache/) `leetcode`
@@ -43,7 +43,7 @@
 - [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/)`leetcode`
 - [ Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)`leetcode`
 - [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)`leetcode`
-- [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/)`leetcode`
+- [x] [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/)`leetcode`
 - [ Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/)`leetcode`
 
 ## Hard
